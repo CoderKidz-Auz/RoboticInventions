@@ -22,6 +22,8 @@
 //   LCD_WR connects to A1
 //   LCD_RD connects to A0
 //   LCD_RESET connects to A4
+//   5v connects to 5V
+//   GND connects to  GND
 
 #define LCD_CS A3
 #define LCD_CD A2
